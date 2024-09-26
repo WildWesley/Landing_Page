@@ -1,1 +1,2 @@
 # Landing_Page
+The purpose of this project is to practice the skills that I've learned about website design using HTML and CSS. Specifically, it is designed to help me hone in my skills with formatting with flexbox.
